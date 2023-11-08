@@ -1,4 +1,4 @@
-const cloudinary = require("cloudinary").v2;
+const cloudinary = require("cloudinary").v2; // Is this the correct version? Check if outdated or if version is correct
 
 require("dotenv").config({ path: "./config/.env" });
 
